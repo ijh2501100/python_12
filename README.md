@@ -92,5 +92,5 @@ print(multiples)
 ---
 
 ## 3. GitHub Repository URL
-- URL: []
+- URL: [https://github.com/ijh2501100/python_12.git]
 ---
